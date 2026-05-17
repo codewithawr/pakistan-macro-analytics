@@ -56,23 +56,37 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # =====================================================================
-# 2. DATA ENGINE CONNECTOR (CACHED CLOUD INTEGRATION)
+# 2. DATA ENGINE CONNECTOR (HYBRID CLOUD DEPLOYMENT INTEGRATION)
 # =====================================================================
 @st.cache_data
 def fetch_and_clean_data():
-    # Check if running locally or in the cloud
+    # Identify environment layer and route corresponding credential maps
     if "gcp_service_account" in st.secrets:
-        # Secure cloud deployment path using Streamlit Secrets dashboard
-        import json
+        # Secure cloud production pipeline running inside Streamlit Cloud nodes
         from google.oauth2 import service_account
         
         info = dict(st.secrets["gcp_service_account"])
         credentials = service_account.Credentials.from_service_account_info(info)
         client = bigquery.Client(credentials=credentials, project=info['project_id'])
     else:
-        # Fallback local path for your machine
+        # Fallback processing pipeline targeting your local machine
         os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "pakistan-macro-analytics-17991db4c9f5.json"
         client = bigquery.Client()
+    
+    query = f"""
+    SELECT DIM_TIME_year, DIM_INDICATOR_id, FACT_value 
+    FROM `{client.project}.pakistan_macro_warehouse.FACT_ECONOMIC_MEASUREMENT`
+    WHERE DIM_TIME_year >= 2000
+    """
+    df_raw = client.query(query).to_dataframe()
+    df_matrix = df_raw.pivot(index='DIM_TIME_year', columns='DIM_INDICATOR_id', values='FACT_value').ffill().bfill()
+    return df_matrix
+
+try:
+    df_matrix = fetch_and_clean_data()
+except Exception as e:
+    st.error(f"Cloud Connection Failed. Details: {e}")
+    st.stop()
 
 # Key Definitions
 target_key = 'IND_INFLATION_CPI'       
