@@ -1,0 +1,209 @@
+DIM_INDICATOR_id,DIM_INDICATOR_name,DIM_TIME_year,DIM_TIME_month,DIM_LOCATION_id,DIM_SOURCE_id,FACT_value
+IND_CURRENT_ACCOUNT_USD_BN,Current account balance (Billion US$),2000,12,PAK,IMF_VIA_KAGGLE,-0.2
+IND_CURRENT_ACCOUNT_USD_BN,Current account balance (Billion US$),2001,12,PAK,IMF_VIA_KAGGLE,0.3
+IND_CURRENT_ACCOUNT_USD_BN,Current account balance (Billion US$),2002,12,PAK,IMF_VIA_KAGGLE,3.9
+IND_CURRENT_ACCOUNT_USD_BN,Current account balance (Billion US$),2003,12,PAK,IMF_VIA_KAGGLE,4.1
+IND_CURRENT_ACCOUNT_USD_BN,Current account balance (Billion US$),2004,12,PAK,IMF_VIA_KAGGLE,1.5
+IND_CURRENT_ACCOUNT_USD_BN,Current account balance (Billion US$),2005,12,PAK,IMF_VIA_KAGGLE,-1.5
+IND_CURRENT_ACCOUNT_USD_BN,Current account balance (Billion US$),2006,12,PAK,IMF_VIA_KAGGLE,-5.0
+IND_CURRENT_ACCOUNT_USD_BN,Current account balance (Billion US$),2007,12,PAK,IMF_VIA_KAGGLE,-6.9
+IND_CURRENT_ACCOUNT_USD_BN,Current account balance (Billion US$),2008,12,PAK,IMF_VIA_KAGGLE,-13.9
+IND_CURRENT_ACCOUNT_USD_BN,Current account balance (Billion US$),2009,12,PAK,IMF_VIA_KAGGLE,-3.9
+IND_CURRENT_ACCOUNT_USD_BN,Current account balance (Billion US$),2010,12,PAK,IMF_VIA_KAGGLE,-3.9
+IND_CURRENT_ACCOUNT_USD_BN,Current account balance (Billion US$),2011,12,PAK,IMF_VIA_KAGGLE,0.2
+IND_CURRENT_ACCOUNT_USD_BN,Current account balance (Billion US$),2012,12,PAK,IMF_VIA_KAGGLE,-2.1
+IND_CURRENT_ACCOUNT_USD_BN,Current account balance (Billion US$),2013,12,PAK,IMF_VIA_KAGGLE,-2.5
+IND_CURRENT_ACCOUNT_USD_BN,Current account balance (Billion US$),2014,12,PAK,IMF_VIA_KAGGLE,-3.1
+IND_CURRENT_ACCOUNT_USD_BN,Current account balance (Billion US$),2015,12,PAK,IMF_VIA_KAGGLE,-2.0
+IND_CURRENT_ACCOUNT_USD_BN,Current account balance (Billion US$),2016,12,PAK,IMF_VIA_KAGGLE,-4.9
+IND_CURRENT_ACCOUNT_USD_BN,Current account balance (Billion US$),2017,12,PAK,IMF_VIA_KAGGLE,-12.6
+IND_CURRENT_ACCOUNT_USD_BN,Current account balance (Billion US$),2018,12,PAK,IMF_VIA_KAGGLE,-19.9
+IND_CURRENT_ACCOUNT_USD_BN,Current account balance (Billion US$),2019,12,PAK,IMF_VIA_KAGGLE,-4.8
+IND_CURRENT_ACCOUNT_USD_BN,Current account balance (Billion US$),2020,12,PAK,IMF_VIA_KAGGLE,-1.9
+IND_CURRENT_ACCOUNT_USD_BN,Current account balance (Billion US$),2021,12,PAK,IMF_VIA_KAGGLE,-13.0
+IND_CURRENT_ACCOUNT_USD_BN,Current account balance (Billion US$),2022,12,PAK,IMF_VIA_KAGGLE,-17.5
+IND_CURRENT_ACCOUNT_USD_BN,Current account balance (Billion US$),2023,12,PAK,IMF_VIA_KAGGLE,-2.5
+IND_CURRENT_ACCOUNT_USD_BN,Current account balance (Billion US$),2024,12,PAK,IMF_VIA_KAGGLE,0.7
+IND_CURRENT_ACCOUNT_USD_BN,Current account balance (Billion US$),2025,12,PAK,IMF_VIA_KAGGLE,1.0
+IND_EXPORTS_USD_BN,Exports of goods and services (Billion US$),2000,12,PAK,IMF_VIA_KAGGLE,9.2
+IND_EXPORTS_USD_BN,Exports of goods and services (Billion US$),2001,12,PAK,IMF_VIA_KAGGLE,9.8
+IND_EXPORTS_USD_BN,Exports of goods and services (Billion US$),2002,12,PAK,IMF_VIA_KAGGLE,10.0
+IND_EXPORTS_USD_BN,Exports of goods and services (Billion US$),2003,12,PAK,IMF_VIA_KAGGLE,11.7
+IND_EXPORTS_USD_BN,Exports of goods and services (Billion US$),2004,12,PAK,IMF_VIA_KAGGLE,14.0
+IND_EXPORTS_USD_BN,Exports of goods and services (Billion US$),2005,12,PAK,IMF_VIA_KAGGLE,16.5
+IND_EXPORTS_USD_BN,Exports of goods and services (Billion US$),2006,12,PAK,IMF_VIA_KAGGLE,18.6
+IND_EXPORTS_USD_BN,Exports of goods and services (Billion US$),2007,12,PAK,IMF_VIA_KAGGLE,17.5
+IND_EXPORTS_USD_BN,Exports of goods and services (Billion US$),2008,12,PAK,IMF_VIA_KAGGLE,20.4
+IND_EXPORTS_USD_BN,Exports of goods and services (Billion US$),2009,12,PAK,IMF_VIA_KAGGLE,19.6
+IND_EXPORTS_USD_BN,Exports of goods and services (Billion US$),2010,12,PAK,IMF_VIA_KAGGLE,19.3
+IND_EXPORTS_USD_BN,Exports of goods and services (Billion US$),2011,12,PAK,IMF_VIA_KAGGLE,24.8
+IND_EXPORTS_USD_BN,Exports of goods and services (Billion US$),2012,12,PAK,IMF_VIA_KAGGLE,24.0
+IND_EXPORTS_USD_BN,Exports of goods and services (Billion US$),2013,12,PAK,IMF_VIA_KAGGLE,24.7
+IND_EXPORTS_USD_BN,Exports of goods and services (Billion US$),2014,12,PAK,IMF_VIA_KAGGLE,25.1
+IND_EXPORTS_USD_BN,Exports of goods and services (Billion US$),2015,12,PAK,IMF_VIA_KAGGLE,22.0
+IND_EXPORTS_USD_BN,Exports of goods and services (Billion US$),2016,12,PAK,IMF_VIA_KAGGLE,22.0
+IND_EXPORTS_USD_BN,Exports of goods and services (Billion US$),2017,12,PAK,IMF_VIA_KAGGLE,22.0
+IND_EXPORTS_USD_BN,Exports of goods and services (Billion US$),2018,12,PAK,IMF_VIA_KAGGLE,24.8
+IND_EXPORTS_USD_BN,Exports of goods and services (Billion US$),2019,12,PAK,IMF_VIA_KAGGLE,22.5
+IND_EXPORTS_USD_BN,Exports of goods and services (Billion US$),2020,12,PAK,IMF_VIA_KAGGLE,22.4
+IND_EXPORTS_USD_BN,Exports of goods and services (Billion US$),2021,12,PAK,IMF_VIA_KAGGLE,31.8
+IND_EXPORTS_USD_BN,Exports of goods and services (Billion US$),2022,12,PAK,IMF_VIA_KAGGLE,32.4
+IND_EXPORTS_USD_BN,Exports of goods and services (Billion US$),2023,12,PAK,IMF_VIA_KAGGLE,27.7
+IND_EXPORTS_USD_BN,Exports of goods and services (Billion US$),2024,12,PAK,IMF_VIA_KAGGLE,31.0
+IND_EXPORTS_USD_BN,Exports of goods and services (Billion US$),2025,12,PAK,IMF_VIA_KAGGLE,34.0
+IND_FOREX_RESERVES_USD_BN,Foreign exchange reserves (Billion US$),2000,12,PAK,IMF_VIA_KAGGLE,1.7
+IND_FOREX_RESERVES_USD_BN,Foreign exchange reserves (Billion US$),2001,12,PAK,IMF_VIA_KAGGLE,3.0
+IND_FOREX_RESERVES_USD_BN,Foreign exchange reserves (Billion US$),2002,12,PAK,IMF_VIA_KAGGLE,4.8
+IND_FOREX_RESERVES_USD_BN,Foreign exchange reserves (Billion US$),2003,12,PAK,IMF_VIA_KAGGLE,9.5
+IND_FOREX_RESERVES_USD_BN,Foreign exchange reserves (Billion US$),2004,12,PAK,IMF_VIA_KAGGLE,10.6
+IND_FOREX_RESERVES_USD_BN,Foreign exchange reserves (Billion US$),2005,12,PAK,IMF_VIA_KAGGLE,12.0
+IND_FOREX_RESERVES_USD_BN,Foreign exchange reserves (Billion US$),2006,12,PAK,IMF_VIA_KAGGLE,13.1
+IND_FOREX_RESERVES_USD_BN,Foreign exchange reserves (Billion US$),2007,12,PAK,IMF_VIA_KAGGLE,15.0
+IND_FOREX_RESERVES_USD_BN,Foreign exchange reserves (Billion US$),2008,12,PAK,IMF_VIA_KAGGLE,11.4
+IND_FOREX_RESERVES_USD_BN,Foreign exchange reserves (Billion US$),2009,12,PAK,IMF_VIA_KAGGLE,13.0
+IND_FOREX_RESERVES_USD_BN,Foreign exchange reserves (Billion US$),2010,12,PAK,IMF_VIA_KAGGLE,16.8
+IND_FOREX_RESERVES_USD_BN,Foreign exchange reserves (Billion US$),2011,12,PAK,IMF_VIA_KAGGLE,18.2
+IND_FOREX_RESERVES_USD_BN,Foreign exchange reserves (Billion US$),2012,12,PAK,IMF_VIA_KAGGLE,15.3
+IND_FOREX_RESERVES_USD_BN,Foreign exchange reserves (Billion US$),2013,12,PAK,IMF_VIA_KAGGLE,11.0
+IND_FOREX_RESERVES_USD_BN,Foreign exchange reserves (Billion US$),2014,12,PAK,IMF_VIA_KAGGLE,14.1
+IND_FOREX_RESERVES_USD_BN,Foreign exchange reserves (Billion US$),2015,12,PAK,IMF_VIA_KAGGLE,20.1
+IND_FOREX_RESERVES_USD_BN,Foreign exchange reserves (Billion US$),2016,12,PAK,IMF_VIA_KAGGLE,23.1
+IND_FOREX_RESERVES_USD_BN,Foreign exchange reserves (Billion US$),2017,12,PAK,IMF_VIA_KAGGLE,21.4
+IND_FOREX_RESERVES_USD_BN,Foreign exchange reserves (Billion US$),2018,12,PAK,IMF_VIA_KAGGLE,19.4
+IND_FOREX_RESERVES_USD_BN,Foreign exchange reserves (Billion US$),2019,12,PAK,IMF_VIA_KAGGLE,18.1
+IND_FOREX_RESERVES_USD_BN,Foreign exchange reserves (Billion US$),2020,12,PAK,IMF_VIA_KAGGLE,13.0
+IND_FOREX_RESERVES_USD_BN,Foreign exchange reserves (Billion US$),2021,12,PAK,IMF_VIA_KAGGLE,22.8
+IND_FOREX_RESERVES_USD_BN,Foreign exchange reserves (Billion US$),2022,12,PAK,IMF_VIA_KAGGLE,13.7
+IND_FOREX_RESERVES_USD_BN,Foreign exchange reserves (Billion US$),2023,12,PAK,IMF_VIA_KAGGLE,8.7
+IND_FOREX_RESERVES_USD_BN,Foreign exchange reserves (Billion US$),2024,12,PAK,IMF_VIA_KAGGLE,14.8
+IND_FOREX_RESERVES_USD_BN,Foreign exchange reserves (Billion US$),2025,12,PAK,IMF_VIA_KAGGLE,18.5
+IND_IMF_PROGRAM_ACTIVE,"IMF program active flag (1=Active, 0=Inactive)",2000,12,PAK,IMF_VIA_KAGGLE,0.0
+IND_IMF_PROGRAM_ACTIVE,"IMF program active flag (1=Active, 0=Inactive)",2001,12,PAK,IMF_VIA_KAGGLE,0.0
+IND_IMF_PROGRAM_ACTIVE,"IMF program active flag (1=Active, 0=Inactive)",2002,12,PAK,IMF_VIA_KAGGLE,0.0
+IND_IMF_PROGRAM_ACTIVE,"IMF program active flag (1=Active, 0=Inactive)",2003,12,PAK,IMF_VIA_KAGGLE,0.0
+IND_IMF_PROGRAM_ACTIVE,"IMF program active flag (1=Active, 0=Inactive)",2004,12,PAK,IMF_VIA_KAGGLE,0.0
+IND_IMF_PROGRAM_ACTIVE,"IMF program active flag (1=Active, 0=Inactive)",2005,12,PAK,IMF_VIA_KAGGLE,0.0
+IND_IMF_PROGRAM_ACTIVE,"IMF program active flag (1=Active, 0=Inactive)",2006,12,PAK,IMF_VIA_KAGGLE,0.0
+IND_IMF_PROGRAM_ACTIVE,"IMF program active flag (1=Active, 0=Inactive)",2007,12,PAK,IMF_VIA_KAGGLE,1.0
+IND_IMF_PROGRAM_ACTIVE,"IMF program active flag (1=Active, 0=Inactive)",2008,12,PAK,IMF_VIA_KAGGLE,0.0
+IND_IMF_PROGRAM_ACTIVE,"IMF program active flag (1=Active, 0=Inactive)",2009,12,PAK,IMF_VIA_KAGGLE,1.0
+IND_IMF_PROGRAM_ACTIVE,"IMF program active flag (1=Active, 0=Inactive)",2010,12,PAK,IMF_VIA_KAGGLE,0.0
+IND_IMF_PROGRAM_ACTIVE,"IMF program active flag (1=Active, 0=Inactive)",2011,12,PAK,IMF_VIA_KAGGLE,1.0
+IND_IMF_PROGRAM_ACTIVE,"IMF program active flag (1=Active, 0=Inactive)",2012,12,PAK,IMF_VIA_KAGGLE,1.0
+IND_IMF_PROGRAM_ACTIVE,"IMF program active flag (1=Active, 0=Inactive)",2013,12,PAK,IMF_VIA_KAGGLE,0.0
+IND_IMF_PROGRAM_ACTIVE,"IMF program active flag (1=Active, 0=Inactive)",2014,12,PAK,IMF_VIA_KAGGLE,0.0
+IND_IMF_PROGRAM_ACTIVE,"IMF program active flag (1=Active, 0=Inactive)",2015,12,PAK,IMF_VIA_KAGGLE,0.0
+IND_IMF_PROGRAM_ACTIVE,"IMF program active flag (1=Active, 0=Inactive)",2016,12,PAK,IMF_VIA_KAGGLE,0.0
+IND_IMF_PROGRAM_ACTIVE,"IMF program active flag (1=Active, 0=Inactive)",2017,12,PAK,IMF_VIA_KAGGLE,1.0
+IND_IMF_PROGRAM_ACTIVE,"IMF program active flag (1=Active, 0=Inactive)",2018,12,PAK,IMF_VIA_KAGGLE,1.0
+IND_IMF_PROGRAM_ACTIVE,"IMF program active flag (1=Active, 0=Inactive)",2019,12,PAK,IMF_VIA_KAGGLE,0.0
+IND_IMF_PROGRAM_ACTIVE,"IMF program active flag (1=Active, 0=Inactive)",2020,12,PAK,IMF_VIA_KAGGLE,1.0
+IND_IMF_PROGRAM_ACTIVE,"IMF program active flag (1=Active, 0=Inactive)",2021,12,PAK,IMF_VIA_KAGGLE,1.0
+IND_IMF_PROGRAM_ACTIVE,"IMF program active flag (1=Active, 0=Inactive)",2022,12,PAK,IMF_VIA_KAGGLE,0.0
+IND_IMF_PROGRAM_ACTIVE,"IMF program active flag (1=Active, 0=Inactive)",2023,12,PAK,IMF_VIA_KAGGLE,1.0
+IND_IMF_PROGRAM_ACTIVE,"IMF program active flag (1=Active, 0=Inactive)",2024,12,PAK,IMF_VIA_KAGGLE,1.0
+IND_IMF_PROGRAM_ACTIVE,"IMF program active flag (1=Active, 0=Inactive)",2025,12,PAK,IMF_VIA_KAGGLE,1.0
+IND_IMPORTS_USD_BN,Imports of goods and services (Billion US$),2000,12,PAK,IMF_VIA_KAGGLE,10.3
+IND_IMPORTS_USD_BN,Imports of goods and services (Billion US$),2001,12,PAK,IMF_VIA_KAGGLE,10.3
+IND_IMPORTS_USD_BN,Imports of goods and services (Billion US$),2002,12,PAK,IMF_VIA_KAGGLE,10.9
+IND_IMPORTS_USD_BN,Imports of goods and services (Billion US$),2003,12,PAK,IMF_VIA_KAGGLE,12.2
+IND_IMPORTS_USD_BN,Imports of goods and services (Billion US$),2004,12,PAK,IMF_VIA_KAGGLE,15.5
+IND_IMPORTS_USD_BN,Imports of goods and services (Billion US$),2005,12,PAK,IMF_VIA_KAGGLE,25.4
+IND_IMPORTS_USD_BN,Imports of goods and services (Billion US$),2006,12,PAK,IMF_VIA_KAGGLE,30.5
+IND_IMPORTS_USD_BN,Imports of goods and services (Billion US$),2007,12,PAK,IMF_VIA_KAGGLE,28.6
+IND_IMPORTS_USD_BN,Imports of goods and services (Billion US$),2008,12,PAK,IMF_VIA_KAGGLE,39.9
+IND_IMPORTS_USD_BN,Imports of goods and services (Billion US$),2009,12,PAK,IMF_VIA_KAGGLE,31.7
+IND_IMPORTS_USD_BN,Imports of goods and services (Billion US$),2010,12,PAK,IMF_VIA_KAGGLE,34.7
+IND_IMPORTS_USD_BN,Imports of goods and services (Billion US$),2011,12,PAK,IMF_VIA_KAGGLE,43.6
+IND_IMPORTS_USD_BN,Imports of goods and services (Billion US$),2012,12,PAK,IMF_VIA_KAGGLE,44.9
+IND_IMPORTS_USD_BN,Imports of goods and services (Billion US$),2013,12,PAK,IMF_VIA_KAGGLE,45.1
+IND_IMPORTS_USD_BN,Imports of goods and services (Billion US$),2014,12,PAK,IMF_VIA_KAGGLE,47.5
+IND_IMPORTS_USD_BN,Imports of goods and services (Billion US$),2015,12,PAK,IMF_VIA_KAGGLE,44.9
+IND_IMPORTS_USD_BN,Imports of goods and services (Billion US$),2016,12,PAK,IMF_VIA_KAGGLE,42.1
+IND_IMPORTS_USD_BN,Imports of goods and services (Billion US$),2017,12,PAK,IMF_VIA_KAGGLE,48.8
+IND_IMPORTS_USD_BN,Imports of goods and services (Billion US$),2018,12,PAK,IMF_VIA_KAGGLE,60.9
+IND_IMPORTS_USD_BN,Imports of goods and services (Billion US$),2019,12,PAK,IMF_VIA_KAGGLE,44.6
+IND_IMPORTS_USD_BN,Imports of goods and services (Billion US$),2020,12,PAK,IMF_VIA_KAGGLE,44.6
+IND_IMPORTS_USD_BN,Imports of goods and services (Billion US$),2021,12,PAK,IMF_VIA_KAGGLE,72.7
+IND_IMPORTS_USD_BN,Imports of goods and services (Billion US$),2022,12,PAK,IMF_VIA_KAGGLE,80.0
+IND_IMPORTS_USD_BN,Imports of goods and services (Billion US$),2023,12,PAK,IMF_VIA_KAGGLE,55.3
+IND_IMPORTS_USD_BN,Imports of goods and services (Billion US$),2024,12,PAK,IMF_VIA_KAGGLE,53.2
+IND_IMPORTS_USD_BN,Imports of goods and services (Billion US$),2025,12,PAK,IMF_VIA_KAGGLE,58.0
+IND_POLICY_RATE_PCT,Central bank policy rate (%),2000,12,PAK,IMF_VIA_KAGGLE,13.0
+IND_POLICY_RATE_PCT,Central bank policy rate (%),2001,12,PAK,IMF_VIA_KAGGLE,12.0
+IND_POLICY_RATE_PCT,Central bank policy rate (%),2002,12,PAK,IMF_VIA_KAGGLE,7.5
+IND_POLICY_RATE_PCT,Central bank policy rate (%),2003,12,PAK,IMF_VIA_KAGGLE,7.5
+IND_POLICY_RATE_PCT,Central bank policy rate (%),2004,12,PAK,IMF_VIA_KAGGLE,7.5
+IND_POLICY_RATE_PCT,Central bank policy rate (%),2005,12,PAK,IMF_VIA_KAGGLE,9.0
+IND_POLICY_RATE_PCT,Central bank policy rate (%),2006,12,PAK,IMF_VIA_KAGGLE,9.5
+IND_POLICY_RATE_PCT,Central bank policy rate (%),2007,12,PAK,IMF_VIA_KAGGLE,10.0
+IND_POLICY_RATE_PCT,Central bank policy rate (%),2008,12,PAK,IMF_VIA_KAGGLE,15.0
+IND_POLICY_RATE_PCT,Central bank policy rate (%),2009,12,PAK,IMF_VIA_KAGGLE,12.5
+IND_POLICY_RATE_PCT,Central bank policy rate (%),2010,12,PAK,IMF_VIA_KAGGLE,12.5
+IND_POLICY_RATE_PCT,Central bank policy rate (%),2011,12,PAK,IMF_VIA_KAGGLE,14.0
+IND_POLICY_RATE_PCT,Central bank policy rate (%),2012,12,PAK,IMF_VIA_KAGGLE,12.0
+IND_POLICY_RATE_PCT,Central bank policy rate (%),2013,12,PAK,IMF_VIA_KAGGLE,10.0
+IND_POLICY_RATE_PCT,Central bank policy rate (%),2014,12,PAK,IMF_VIA_KAGGLE,10.0
+IND_POLICY_RATE_PCT,Central bank policy rate (%),2015,12,PAK,IMF_VIA_KAGGLE,7.0
+IND_POLICY_RATE_PCT,Central bank policy rate (%),2016,12,PAK,IMF_VIA_KAGGLE,5.75
+IND_POLICY_RATE_PCT,Central bank policy rate (%),2017,12,PAK,IMF_VIA_KAGGLE,5.75
+IND_POLICY_RATE_PCT,Central bank policy rate (%),2018,12,PAK,IMF_VIA_KAGGLE,6.5
+IND_POLICY_RATE_PCT,Central bank policy rate (%),2019,12,PAK,IMF_VIA_KAGGLE,13.25
+IND_POLICY_RATE_PCT,Central bank policy rate (%),2020,12,PAK,IMF_VIA_KAGGLE,7.0
+IND_POLICY_RATE_PCT,Central bank policy rate (%),2021,12,PAK,IMF_VIA_KAGGLE,7.25
+IND_POLICY_RATE_PCT,Central bank policy rate (%),2022,12,PAK,IMF_VIA_KAGGLE,16.0
+IND_POLICY_RATE_PCT,Central bank policy rate (%),2023,12,PAK,IMF_VIA_KAGGLE,22.0
+IND_POLICY_RATE_PCT,Central bank policy rate (%),2024,12,PAK,IMF_VIA_KAGGLE,13.0
+IND_POLICY_RATE_PCT,Central bank policy rate (%),2025,12,PAK,IMF_VIA_KAGGLE,11.0
+IND_PUBLIC_DEBT_GDP_PCT,Public debt (% of GDP),2000,12,PAK,IMF_VIA_KAGGLE,82.0
+IND_PUBLIC_DEBT_GDP_PCT,Public debt (% of GDP),2001,12,PAK,IMF_VIA_KAGGLE,79.0
+IND_PUBLIC_DEBT_GDP_PCT,Public debt (% of GDP),2002,12,PAK,IMF_VIA_KAGGLE,75.0
+IND_PUBLIC_DEBT_GDP_PCT,Public debt (% of GDP),2003,12,PAK,IMF_VIA_KAGGLE,68.0
+IND_PUBLIC_DEBT_GDP_PCT,Public debt (% of GDP),2004,12,PAK,IMF_VIA_KAGGLE,65.0
+IND_PUBLIC_DEBT_GDP_PCT,Public debt (% of GDP),2005,12,PAK,IMF_VIA_KAGGLE,60.0
+IND_PUBLIC_DEBT_GDP_PCT,Public debt (% of GDP),2006,12,PAK,IMF_VIA_KAGGLE,56.0
+IND_PUBLIC_DEBT_GDP_PCT,Public debt (% of GDP),2007,12,PAK,IMF_VIA_KAGGLE,55.0
+IND_PUBLIC_DEBT_GDP_PCT,Public debt (% of GDP),2008,12,PAK,IMF_VIA_KAGGLE,58.0
+IND_PUBLIC_DEBT_GDP_PCT,Public debt (% of GDP),2009,12,PAK,IMF_VIA_KAGGLE,57.0
+IND_PUBLIC_DEBT_GDP_PCT,Public debt (% of GDP),2010,12,PAK,IMF_VIA_KAGGLE,60.0
+IND_PUBLIC_DEBT_GDP_PCT,Public debt (% of GDP),2011,12,PAK,IMF_VIA_KAGGLE,58.0
+IND_PUBLIC_DEBT_GDP_PCT,Public debt (% of GDP),2012,12,PAK,IMF_VIA_KAGGLE,62.0
+IND_PUBLIC_DEBT_GDP_PCT,Public debt (% of GDP),2013,12,PAK,IMF_VIA_KAGGLE,64.0
+IND_PUBLIC_DEBT_GDP_PCT,Public debt (% of GDP),2014,12,PAK,IMF_VIA_KAGGLE,64.0
+IND_PUBLIC_DEBT_GDP_PCT,Public debt (% of GDP),2015,12,PAK,IMF_VIA_KAGGLE,63.0
+IND_PUBLIC_DEBT_GDP_PCT,Public debt (% of GDP),2016,12,PAK,IMF_VIA_KAGGLE,67.0
+IND_PUBLIC_DEBT_GDP_PCT,Public debt (% of GDP),2017,12,PAK,IMF_VIA_KAGGLE,67.0
+IND_PUBLIC_DEBT_GDP_PCT,Public debt (% of GDP),2018,12,PAK,IMF_VIA_KAGGLE,72.0
+IND_PUBLIC_DEBT_GDP_PCT,Public debt (% of GDP),2019,12,PAK,IMF_VIA_KAGGLE,83.0
+IND_PUBLIC_DEBT_GDP_PCT,Public debt (% of GDP),2020,12,PAK,IMF_VIA_KAGGLE,87.0
+IND_PUBLIC_DEBT_GDP_PCT,Public debt (% of GDP),2021,12,PAK,IMF_VIA_KAGGLE,78.0
+IND_PUBLIC_DEBT_GDP_PCT,Public debt (% of GDP),2022,12,PAK,IMF_VIA_KAGGLE,73.0
+IND_PUBLIC_DEBT_GDP_PCT,Public debt (% of GDP),2023,12,PAK,IMF_VIA_KAGGLE,74.0
+IND_PUBLIC_DEBT_GDP_PCT,Public debt (% of GDP),2024,12,PAK,IMF_VIA_KAGGLE,67.0
+IND_PUBLIC_DEBT_GDP_PCT,Public debt (% of GDP),2025,12,PAK,IMF_VIA_KAGGLE,65.0
+IND_TRADE_BALANCE_USD_BN,Trade balance (Billion US$),2000,12,PAK,IMF_VIA_KAGGLE,-1.1
+IND_TRADE_BALANCE_USD_BN,Trade balance (Billion US$),2001,12,PAK,IMF_VIA_KAGGLE,-0.5
+IND_TRADE_BALANCE_USD_BN,Trade balance (Billion US$),2002,12,PAK,IMF_VIA_KAGGLE,-0.9
+IND_TRADE_BALANCE_USD_BN,Trade balance (Billion US$),2003,12,PAK,IMF_VIA_KAGGLE,-0.5
+IND_TRADE_BALANCE_USD_BN,Trade balance (Billion US$),2004,12,PAK,IMF_VIA_KAGGLE,-1.5
+IND_TRADE_BALANCE_USD_BN,Trade balance (Billion US$),2005,12,PAK,IMF_VIA_KAGGLE,-8.9
+IND_TRADE_BALANCE_USD_BN,Trade balance (Billion US$),2006,12,PAK,IMF_VIA_KAGGLE,-11.9
+IND_TRADE_BALANCE_USD_BN,Trade balance (Billion US$),2007,12,PAK,IMF_VIA_KAGGLE,-11.1
+IND_TRADE_BALANCE_USD_BN,Trade balance (Billion US$),2008,12,PAK,IMF_VIA_KAGGLE,-19.5
+IND_TRADE_BALANCE_USD_BN,Trade balance (Billion US$),2009,12,PAK,IMF_VIA_KAGGLE,-12.1
+IND_TRADE_BALANCE_USD_BN,Trade balance (Billion US$),2010,12,PAK,IMF_VIA_KAGGLE,-15.4
+IND_TRADE_BALANCE_USD_BN,Trade balance (Billion US$),2011,12,PAK,IMF_VIA_KAGGLE,-18.8
+IND_TRADE_BALANCE_USD_BN,Trade balance (Billion US$),2012,12,PAK,IMF_VIA_KAGGLE,-20.9
+IND_TRADE_BALANCE_USD_BN,Trade balance (Billion US$),2013,12,PAK,IMF_VIA_KAGGLE,-20.4
+IND_TRADE_BALANCE_USD_BN,Trade balance (Billion US$),2014,12,PAK,IMF_VIA_KAGGLE,-22.4
+IND_TRADE_BALANCE_USD_BN,Trade balance (Billion US$),2015,12,PAK,IMF_VIA_KAGGLE,-22.9
+IND_TRADE_BALANCE_USD_BN,Trade balance (Billion US$),2016,12,PAK,IMF_VIA_KAGGLE,-20.1
+IND_TRADE_BALANCE_USD_BN,Trade balance (Billion US$),2017,12,PAK,IMF_VIA_KAGGLE,-26.8
+IND_TRADE_BALANCE_USD_BN,Trade balance (Billion US$),2018,12,PAK,IMF_VIA_KAGGLE,-36.1
+IND_TRADE_BALANCE_USD_BN,Trade balance (Billion US$),2019,12,PAK,IMF_VIA_KAGGLE,-22.1
+IND_TRADE_BALANCE_USD_BN,Trade balance (Billion US$),2020,12,PAK,IMF_VIA_KAGGLE,-22.2
+IND_TRADE_BALANCE_USD_BN,Trade balance (Billion US$),2021,12,PAK,IMF_VIA_KAGGLE,-40.9
+IND_TRADE_BALANCE_USD_BN,Trade balance (Billion US$),2022,12,PAK,IMF_VIA_KAGGLE,-47.6
+IND_TRADE_BALANCE_USD_BN,Trade balance (Billion US$),2023,12,PAK,IMF_VIA_KAGGLE,-27.6
+IND_TRADE_BALANCE_USD_BN,Trade balance (Billion US$),2024,12,PAK,IMF_VIA_KAGGLE,-22.2
+IND_TRADE_BALANCE_USD_BN,Trade balance (Billion US$),2025,12,PAK,IMF_VIA_KAGGLE,-24.0

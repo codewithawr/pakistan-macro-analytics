@@ -1,0 +1,209 @@
+DIM_INDICATOR_id,DIM_INDICATOR_name,DIM_TIME_year,DIM_TIME_month,DIM_LOCATION_id,DIM_SOURCE_id,FACT_value
+IND_EXPORTS_GDP_PCT,Exports of goods and services (% of GDP),2000,12,PAK,KAGGLE_PAK_ECONOMY,9.21
+IND_EXPORTS_GDP_PCT,Exports of goods and services (% of GDP),2001,12,PAK,KAGGLE_PAK_ECONOMY,9.66
+IND_EXPORTS_GDP_PCT,Exports of goods and services (% of GDP),2002,12,PAK,KAGGLE_PAK_ECONOMY,9.29
+IND_EXPORTS_GDP_PCT,Exports of goods and services (% of GDP),2003,12,PAK,KAGGLE_PAK_ECONOMY,10.06
+IND_EXPORTS_GDP_PCT,Exports of goods and services (% of GDP),2004,12,PAK,KAGGLE_PAK_ECONOMY,11.05
+IND_EXPORTS_GDP_PCT,Exports of goods and services (% of GDP),2005,12,PAK,KAGGLE_PAK_ECONOMY,12.01
+IND_EXPORTS_GDP_PCT,Exports of goods and services (% of GDP),2006,12,PAK,KAGGLE_PAK_ECONOMY,12.2
+IND_EXPORTS_GDP_PCT,Exports of goods and services (% of GDP),2007,12,PAK,KAGGLE_PAK_ECONOMY,10.42
+IND_EXPORTS_GDP_PCT,Exports of goods and services (% of GDP),2008,12,PAK,KAGGLE_PAK_ECONOMY,10.6
+IND_EXPORTS_GDP_PCT,Exports of goods and services (% of GDP),2009,12,PAK,KAGGLE_PAK_ECONOMY,11.29
+IND_EXPORTS_GDP_PCT,Exports of goods and services (% of GDP),2010,12,PAK,KAGGLE_PAK_ECONOMY,10.9
+IND_EXPORTS_GDP_PCT,Exports of goods and services (% of GDP),2011,12,PAK,KAGGLE_PAK_ECONOMY,11.16
+IND_EXPORTS_GDP_PCT,Exports of goods and services (% of GDP),2012,12,PAK,KAGGLE_PAK_ECONOMY,10.02
+IND_EXPORTS_GDP_PCT,Exports of goods and services (% of GDP),2013,12,PAK,KAGGLE_PAK_ECONOMY,10.0
+IND_EXPORTS_GDP_PCT,Exports of goods and services (% of GDP),2014,12,PAK,KAGGLE_PAK_ECONOMY,9.28
+IND_EXPORTS_GDP_PCT,Exports of goods and services (% of GDP),2015,12,PAK,KAGGLE_PAK_ECONOMY,8.12
+IND_EXPORTS_GDP_PCT,Exports of goods and services (% of GDP),2016,12,PAK,KAGGLE_PAK_ECONOMY,7.79
+IND_EXPORTS_GDP_PCT,Exports of goods and services (% of GDP),2017,12,PAK,KAGGLE_PAK_ECONOMY,7.21
+IND_EXPORTS_GDP_PCT,Exports of goods and services (% of GDP),2018,12,PAK,KAGGLE_PAK_ECONOMY,7.88
+IND_EXPORTS_GDP_PCT,Exports of goods and services (% of GDP),2019,12,PAK,KAGGLE_PAK_ECONOMY,8.53
+IND_EXPORTS_GDP_PCT,Exports of goods and services (% of GDP),2020,12,PAK,KAGGLE_PAK_ECONOMY,8.51
+IND_EXPORTS_GDP_PCT,Exports of goods and services (% of GDP),2021,12,PAK,KAGGLE_PAK_ECONOMY,9.12
+IND_EXPORTS_GDP_PCT,Exports of goods and services (% of GDP),2022,12,PAK,KAGGLE_PAK_ECONOMY,8.61
+IND_EXPORTS_GDP_PCT,Exports of goods and services (% of GDP),2023,12,PAK,KAGGLE_PAK_ECONOMY,8.2
+IND_EXPORTS_GDP_PCT,Exports of goods and services (% of GDP),2024,12,PAK,KAGGLE_PAK_ECONOMY,8.28
+IND_EXPORTS_GDP_PCT,Exports of goods and services (% of GDP),2025,12,PAK,KAGGLE_PAK_ECONOMY,8.72
+IND_GDP_GROWTH_PCT,GDP growth (annual %),2000,12,PAK,KAGGLE_PAK_ECONOMY,3.9
+IND_GDP_GROWTH_PCT,GDP growth (annual %),2001,12,PAK,KAGGLE_PAK_ECONOMY,2.0
+IND_GDP_GROWTH_PCT,GDP growth (annual %),2002,12,PAK,KAGGLE_PAK_ECONOMY,3.1
+IND_GDP_GROWTH_PCT,GDP growth (annual %),2003,12,PAK,KAGGLE_PAK_ECONOMY,4.7
+IND_GDP_GROWTH_PCT,GDP growth (annual %),2004,12,PAK,KAGGLE_PAK_ECONOMY,7.4
+IND_GDP_GROWTH_PCT,GDP growth (annual %),2005,12,PAK,KAGGLE_PAK_ECONOMY,9.0
+IND_GDP_GROWTH_PCT,GDP growth (annual %),2006,12,PAK,KAGGLE_PAK_ECONOMY,5.8
+IND_GDP_GROWTH_PCT,GDP growth (annual %),2007,12,PAK,KAGGLE_PAK_ECONOMY,6.8
+IND_GDP_GROWTH_PCT,GDP growth (annual %),2008,12,PAK,KAGGLE_PAK_ECONOMY,5.0
+IND_GDP_GROWTH_PCT,GDP growth (annual %),2009,12,PAK,KAGGLE_PAK_ECONOMY,2.6
+IND_GDP_GROWTH_PCT,GDP growth (annual %),2010,12,PAK,KAGGLE_PAK_ECONOMY,1.6
+IND_GDP_GROWTH_PCT,GDP growth (annual %),2011,12,PAK,KAGGLE_PAK_ECONOMY,3.6
+IND_GDP_GROWTH_PCT,GDP growth (annual %),2012,12,PAK,KAGGLE_PAK_ECONOMY,4.4
+IND_GDP_GROWTH_PCT,GDP growth (annual %),2013,12,PAK,KAGGLE_PAK_ECONOMY,3.7
+IND_GDP_GROWTH_PCT,GDP growth (annual %),2014,12,PAK,KAGGLE_PAK_ECONOMY,4.1
+IND_GDP_GROWTH_PCT,GDP growth (annual %),2015,12,PAK,KAGGLE_PAK_ECONOMY,4.1
+IND_GDP_GROWTH_PCT,GDP growth (annual %),2016,12,PAK,KAGGLE_PAK_ECONOMY,5.5
+IND_GDP_GROWTH_PCT,GDP growth (annual %),2017,12,PAK,KAGGLE_PAK_ECONOMY,5.2
+IND_GDP_GROWTH_PCT,GDP growth (annual %),2018,12,PAK,KAGGLE_PAK_ECONOMY,5.8
+IND_GDP_GROWTH_PCT,GDP growth (annual %),2019,12,PAK,KAGGLE_PAK_ECONOMY,1.9
+IND_GDP_GROWTH_PCT,GDP growth (annual %),2020,12,PAK,KAGGLE_PAK_ECONOMY,-0.5
+IND_GDP_GROWTH_PCT,GDP growth (annual %),2021,12,PAK,KAGGLE_PAK_ECONOMY,5.7
+IND_GDP_GROWTH_PCT,GDP growth (annual %),2022,12,PAK,KAGGLE_PAK_ECONOMY,6.1
+IND_GDP_GROWTH_PCT,GDP growth (annual %),2023,12,PAK,KAGGLE_PAK_ECONOMY,-0.04
+IND_GDP_GROWTH_PCT,GDP growth (annual %),2024,12,PAK,KAGGLE_PAK_ECONOMY,2.4
+IND_GDP_GROWTH_PCT,GDP growth (annual %),2025,12,PAK,KAGGLE_PAK_ECONOMY,3.0
+IND_IMPORTS_GDP_PCT,Imports of goods and services (% of GDP),2000,12,PAK,KAGGLE_PAK_ECONOMY,10.31
+IND_IMPORTS_GDP_PCT,Imports of goods and services (% of GDP),2001,12,PAK,KAGGLE_PAK_ECONOMY,10.16
+IND_IMPORTS_GDP_PCT,Imports of goods and services (% of GDP),2002,12,PAK,KAGGLE_PAK_ECONOMY,10.13
+IND_IMPORTS_GDP_PCT,Imports of goods and services (% of GDP),2003,12,PAK,KAGGLE_PAK_ECONOMY,10.49
+IND_IMPORTS_GDP_PCT,Imports of goods and services (% of GDP),2004,12,PAK,KAGGLE_PAK_ECONOMY,12.23
+IND_IMPORTS_GDP_PCT,Imports of goods and services (% of GDP),2005,12,PAK,KAGGLE_PAK_ECONOMY,18.49
+IND_IMPORTS_GDP_PCT,Imports of goods and services (% of GDP),2006,12,PAK,KAGGLE_PAK_ECONOMY,20.01
+IND_IMPORTS_GDP_PCT,Imports of goods and services (% of GDP),2007,12,PAK,KAGGLE_PAK_ECONOMY,17.02
+IND_IMPORTS_GDP_PCT,Imports of goods and services (% of GDP),2008,12,PAK,KAGGLE_PAK_ECONOMY,20.73
+IND_IMPORTS_GDP_PCT,Imports of goods and services (% of GDP),2009,12,PAK,KAGGLE_PAK_ECONOMY,18.26
+IND_IMPORTS_GDP_PCT,Imports of goods and services (% of GDP),2010,12,PAK,KAGGLE_PAK_ECONOMY,19.59
+IND_IMPORTS_GDP_PCT,Imports of goods and services (% of GDP),2011,12,PAK,KAGGLE_PAK_ECONOMY,19.62
+IND_IMPORTS_GDP_PCT,Imports of goods and services (% of GDP),2012,12,PAK,KAGGLE_PAK_ECONOMY,18.74
+IND_IMPORTS_GDP_PCT,Imports of goods and services (% of GDP),2013,12,PAK,KAGGLE_PAK_ECONOMY,18.25
+IND_IMPORTS_GDP_PCT,Imports of goods and services (% of GDP),2014,12,PAK,KAGGLE_PAK_ECONOMY,17.55
+IND_IMPORTS_GDP_PCT,Imports of goods and services (% of GDP),2015,12,PAK,KAGGLE_PAK_ECONOMY,16.56
+IND_IMPORTS_GDP_PCT,Imports of goods and services (% of GDP),2016,12,PAK,KAGGLE_PAK_ECONOMY,14.9
+IND_IMPORTS_GDP_PCT,Imports of goods and services (% of GDP),2017,12,PAK,KAGGLE_PAK_ECONOMY,16.0
+IND_IMPORTS_GDP_PCT,Imports of goods and services (% of GDP),2018,12,PAK,KAGGLE_PAK_ECONOMY,19.36
+IND_IMPORTS_GDP_PCT,Imports of goods and services (% of GDP),2019,12,PAK,KAGGLE_PAK_ECONOMY,16.91
+IND_IMPORTS_GDP_PCT,Imports of goods and services (% of GDP),2020,12,PAK,KAGGLE_PAK_ECONOMY,16.95
+IND_IMPORTS_GDP_PCT,Imports of goods and services (% of GDP),2021,12,PAK,KAGGLE_PAK_ECONOMY,20.85
+IND_IMPORTS_GDP_PCT,Imports of goods and services (% of GDP),2022,12,PAK,KAGGLE_PAK_ECONOMY,21.25
+IND_IMPORTS_GDP_PCT,Imports of goods and services (% of GDP),2023,12,PAK,KAGGLE_PAK_ECONOMY,16.37
+IND_IMPORTS_GDP_PCT,Imports of goods and services (% of GDP),2024,12,PAK,KAGGLE_PAK_ECONOMY,14.2
+IND_IMPORTS_GDP_PCT,Imports of goods and services (% of GDP),2025,12,PAK,KAGGLE_PAK_ECONOMY,14.87
+IND_LITERACY_RATE_PCT,"Literacy rate, adult total (% of people ages 15+)",2000,12,PAK,KAGGLE_PAK_ECONOMY,43.9
+IND_LITERACY_RATE_PCT,"Literacy rate, adult total (% of people ages 15+)",2001,12,PAK,KAGGLE_PAK_ECONOMY,45.0
+IND_LITERACY_RATE_PCT,"Literacy rate, adult total (% of people ages 15+)",2002,12,PAK,KAGGLE_PAK_ECONOMY,46.0
+IND_LITERACY_RATE_PCT,"Literacy rate, adult total (% of people ages 15+)",2003,12,PAK,KAGGLE_PAK_ECONOMY,47.0
+IND_LITERACY_RATE_PCT,"Literacy rate, adult total (% of people ages 15+)",2004,12,PAK,KAGGLE_PAK_ECONOMY,48.7
+IND_LITERACY_RATE_PCT,"Literacy rate, adult total (% of people ages 15+)",2005,12,PAK,KAGGLE_PAK_ECONOMY,50.5
+IND_LITERACY_RATE_PCT,"Literacy rate, adult total (% of people ages 15+)",2006,12,PAK,KAGGLE_PAK_ECONOMY,52.0
+IND_LITERACY_RATE_PCT,"Literacy rate, adult total (% of people ages 15+)",2007,12,PAK,KAGGLE_PAK_ECONOMY,53.6
+IND_LITERACY_RATE_PCT,"Literacy rate, adult total (% of people ages 15+)",2008,12,PAK,KAGGLE_PAK_ECONOMY,54.2
+IND_LITERACY_RATE_PCT,"Literacy rate, adult total (% of people ages 15+)",2009,12,PAK,KAGGLE_PAK_ECONOMY,55.5
+IND_LITERACY_RATE_PCT,"Literacy rate, adult total (% of people ages 15+)",2010,12,PAK,KAGGLE_PAK_ECONOMY,57.7
+IND_LITERACY_RATE_PCT,"Literacy rate, adult total (% of people ages 15+)",2011,12,PAK,KAGGLE_PAK_ECONOMY,58.1
+IND_LITERACY_RATE_PCT,"Literacy rate, adult total (% of people ages 15+)",2012,12,PAK,KAGGLE_PAK_ECONOMY,58.9
+IND_LITERACY_RATE_PCT,"Literacy rate, adult total (% of people ages 15+)",2013,12,PAK,KAGGLE_PAK_ECONOMY,60.1
+IND_LITERACY_RATE_PCT,"Literacy rate, adult total (% of people ages 15+)",2014,12,PAK,KAGGLE_PAK_ECONOMY,60.9
+IND_LITERACY_RATE_PCT,"Literacy rate, adult total (% of people ages 15+)",2015,12,PAK,KAGGLE_PAK_ECONOMY,58.0
+IND_LITERACY_RATE_PCT,"Literacy rate, adult total (% of people ages 15+)",2016,12,PAK,KAGGLE_PAK_ECONOMY,59.4
+IND_LITERACY_RATE_PCT,"Literacy rate, adult total (% of people ages 15+)",2017,12,PAK,KAGGLE_PAK_ECONOMY,60.0
+IND_LITERACY_RATE_PCT,"Literacy rate, adult total (% of people ages 15+)",2018,12,PAK,KAGGLE_PAK_ECONOMY,62.3
+IND_LITERACY_RATE_PCT,"Literacy rate, adult total (% of people ages 15+)",2019,12,PAK,KAGGLE_PAK_ECONOMY,62.8
+IND_LITERACY_RATE_PCT,"Literacy rate, adult total (% of people ages 15+)",2020,12,PAK,KAGGLE_PAK_ECONOMY,58.0
+IND_LITERACY_RATE_PCT,"Literacy rate, adult total (% of people ages 15+)",2021,12,PAK,KAGGLE_PAK_ECONOMY,59.1
+IND_LITERACY_RATE_PCT,"Literacy rate, adult total (% of people ages 15+)",2022,12,PAK,KAGGLE_PAK_ECONOMY,60.1
+IND_LITERACY_RATE_PCT,"Literacy rate, adult total (% of people ages 15+)",2023,12,PAK,KAGGLE_PAK_ECONOMY,62.3
+IND_LITERACY_RATE_PCT,"Literacy rate, adult total (% of people ages 15+)",2024,12,PAK,KAGGLE_PAK_ECONOMY,63.0
+IND_LITERACY_RATE_PCT,"Literacy rate, adult total (% of people ages 15+)",2025,12,PAK,KAGGLE_PAK_ECONOMY,64.0
+IND_MOBILE_PER_100,Mobile cellular subscriptions (per 100 people),2000,12,PAK,KAGGLE_PAK_ECONOMY,0.3
+IND_MOBILE_PER_100,Mobile cellular subscriptions (per 100 people),2001,12,PAK,KAGGLE_PAK_ECONOMY,0.6
+IND_MOBILE_PER_100,Mobile cellular subscriptions (per 100 people),2002,12,PAK,KAGGLE_PAK_ECONOMY,1.8
+IND_MOBILE_PER_100,Mobile cellular subscriptions (per 100 people),2003,12,PAK,KAGGLE_PAK_ECONOMY,3.3
+IND_MOBILE_PER_100,Mobile cellular subscriptions (per 100 people),2004,12,PAK,KAGGLE_PAK_ECONOMY,7.7
+IND_MOBILE_PER_100,Mobile cellular subscriptions (per 100 people),2005,12,PAK,KAGGLE_PAK_ECONOMY,12.3
+IND_MOBILE_PER_100,Mobile cellular subscriptions (per 100 people),2006,12,PAK,KAGGLE_PAK_ECONOMY,34.5
+IND_MOBILE_PER_100,Mobile cellular subscriptions (per 100 people),2007,12,PAK,KAGGLE_PAK_ECONOMY,55.1
+IND_MOBILE_PER_100,Mobile cellular subscriptions (per 100 people),2008,12,PAK,KAGGLE_PAK_ECONOMY,58.3
+IND_MOBILE_PER_100,Mobile cellular subscriptions (per 100 people),2009,12,PAK,KAGGLE_PAK_ECONOMY,57.7
+IND_MOBILE_PER_100,Mobile cellular subscriptions (per 100 people),2010,12,PAK,KAGGLE_PAK_ECONOMY,61.3
+IND_MOBILE_PER_100,Mobile cellular subscriptions (per 100 people),2011,12,PAK,KAGGLE_PAK_ECONOMY,65.5
+IND_MOBILE_PER_100,Mobile cellular subscriptions (per 100 people),2012,12,PAK,KAGGLE_PAK_ECONOMY,72.6
+IND_MOBILE_PER_100,Mobile cellular subscriptions (per 100 people),2013,12,PAK,KAGGLE_PAK_ECONOMY,71.2
+IND_MOBILE_PER_100,Mobile cellular subscriptions (per 100 people),2014,12,PAK,KAGGLE_PAK_ECONOMY,73.2
+IND_MOBILE_PER_100,Mobile cellular subscriptions (per 100 people),2015,12,PAK,KAGGLE_PAK_ECONOMY,72.3
+IND_MOBILE_PER_100,Mobile cellular subscriptions (per 100 people),2016,12,PAK,KAGGLE_PAK_ECONOMY,69.7
+IND_MOBILE_PER_100,Mobile cellular subscriptions (per 100 people),2017,12,PAK,KAGGLE_PAK_ECONOMY,72.1
+IND_MOBILE_PER_100,Mobile cellular subscriptions (per 100 people),2018,12,PAK,KAGGLE_PAK_ECONOMY,77.2
+IND_MOBILE_PER_100,Mobile cellular subscriptions (per 100 people),2019,12,PAK,KAGGLE_PAK_ECONOMY,76.0
+IND_MOBILE_PER_100,Mobile cellular subscriptions (per 100 people),2020,12,PAK,KAGGLE_PAK_ECONOMY,80.0
+IND_MOBILE_PER_100,Mobile cellular subscriptions (per 100 people),2021,12,PAK,KAGGLE_PAK_ECONOMY,82.4
+IND_MOBILE_PER_100,Mobile cellular subscriptions (per 100 people),2022,12,PAK,KAGGLE_PAK_ECONOMY,82.6
+IND_MOBILE_PER_100,Mobile cellular subscriptions (per 100 people),2023,12,PAK,KAGGLE_PAK_ECONOMY,84.0
+IND_MOBILE_PER_100,Mobile cellular subscriptions (per 100 people),2024,12,PAK,KAGGLE_PAK_ECONOMY,85.5
+IND_MOBILE_PER_100,Mobile cellular subscriptions (per 100 people),2025,12,PAK,KAGGLE_PAK_ECONOMY,87.0
+IND_SERVICES_GDP_PCT,"Services, value added (% of GDP)",2000,12,PAK,KAGGLE_PAK_ECONOMY,47.2
+IND_SERVICES_GDP_PCT,"Services, value added (% of GDP)",2001,12,PAK,KAGGLE_PAK_ECONOMY,47.8
+IND_SERVICES_GDP_PCT,"Services, value added (% of GDP)",2002,12,PAK,KAGGLE_PAK_ECONOMY,48.0
+IND_SERVICES_GDP_PCT,"Services, value added (% of GDP)",2003,12,PAK,KAGGLE_PAK_ECONOMY,49.1
+IND_SERVICES_GDP_PCT,"Services, value added (% of GDP)",2004,12,PAK,KAGGLE_PAK_ECONOMY,50.5
+IND_SERVICES_GDP_PCT,"Services, value added (% of GDP)",2005,12,PAK,KAGGLE_PAK_ECONOMY,52.2
+IND_SERVICES_GDP_PCT,"Services, value added (% of GDP)",2006,12,PAK,KAGGLE_PAK_ECONOMY,53.0
+IND_SERVICES_GDP_PCT,"Services, value added (% of GDP)",2007,12,PAK,KAGGLE_PAK_ECONOMY,53.4
+IND_SERVICES_GDP_PCT,"Services, value added (% of GDP)",2008,12,PAK,KAGGLE_PAK_ECONOMY,52.1
+IND_SERVICES_GDP_PCT,"Services, value added (% of GDP)",2009,12,PAK,KAGGLE_PAK_ECONOMY,52.0
+IND_SERVICES_GDP_PCT,"Services, value added (% of GDP)",2010,12,PAK,KAGGLE_PAK_ECONOMY,53.6
+IND_SERVICES_GDP_PCT,"Services, value added (% of GDP)",2011,12,PAK,KAGGLE_PAK_ECONOMY,54.1
+IND_SERVICES_GDP_PCT,"Services, value added (% of GDP)",2012,12,PAK,KAGGLE_PAK_ECONOMY,53.3
+IND_SERVICES_GDP_PCT,"Services, value added (% of GDP)",2013,12,PAK,KAGGLE_PAK_ECONOMY,54.0
+IND_SERVICES_GDP_PCT,"Services, value added (% of GDP)",2014,12,PAK,KAGGLE_PAK_ECONOMY,53.2
+IND_SERVICES_GDP_PCT,"Services, value added (% of GDP)",2015,12,PAK,KAGGLE_PAK_ECONOMY,53.0
+IND_SERVICES_GDP_PCT,"Services, value added (% of GDP)",2016,12,PAK,KAGGLE_PAK_ECONOMY,53.1
+IND_SERVICES_GDP_PCT,"Services, value added (% of GDP)",2017,12,PAK,KAGGLE_PAK_ECONOMY,52.8
+IND_SERVICES_GDP_PCT,"Services, value added (% of GDP)",2018,12,PAK,KAGGLE_PAK_ECONOMY,52.4
+IND_SERVICES_GDP_PCT,"Services, value added (% of GDP)",2019,12,PAK,KAGGLE_PAK_ECONOMY,52.0
+IND_SERVICES_GDP_PCT,"Services, value added (% of GDP)",2020,12,PAK,KAGGLE_PAK_ECONOMY,53.0
+IND_SERVICES_GDP_PCT,"Services, value added (% of GDP)",2021,12,PAK,KAGGLE_PAK_ECONOMY,52.6
+IND_SERVICES_GDP_PCT,"Services, value added (% of GDP)",2022,12,PAK,KAGGLE_PAK_ECONOMY,51.7
+IND_SERVICES_GDP_PCT,"Services, value added (% of GDP)",2023,12,PAK,KAGGLE_PAK_ECONOMY,50.6
+IND_SERVICES_GDP_PCT,"Services, value added (% of GDP)",2024,12,PAK,KAGGLE_PAK_ECONOMY,51.0
+IND_SERVICES_GDP_PCT,"Services, value added (% of GDP)",2025,12,PAK,KAGGLE_PAK_ECONOMY,52.0
+IND_TAX_REVENUE_GDP_PCT,Tax revenue (% of GDP),2000,12,PAK,KAGGLE_PAK_ECONOMY,9.3
+IND_TAX_REVENUE_GDP_PCT,Tax revenue (% of GDP),2001,12,PAK,KAGGLE_PAK_ECONOMY,9.7
+IND_TAX_REVENUE_GDP_PCT,Tax revenue (% of GDP),2002,12,PAK,KAGGLE_PAK_ECONOMY,10.1
+IND_TAX_REVENUE_GDP_PCT,Tax revenue (% of GDP),2003,12,PAK,KAGGLE_PAK_ECONOMY,10.5
+IND_TAX_REVENUE_GDP_PCT,Tax revenue (% of GDP),2004,12,PAK,KAGGLE_PAK_ECONOMY,10.5
+IND_TAX_REVENUE_GDP_PCT,Tax revenue (% of GDP),2005,12,PAK,KAGGLE_PAK_ECONOMY,10.8
+IND_TAX_REVENUE_GDP_PCT,Tax revenue (% of GDP),2006,12,PAK,KAGGLE_PAK_ECONOMY,10.9
+IND_TAX_REVENUE_GDP_PCT,Tax revenue (% of GDP),2007,12,PAK,KAGGLE_PAK_ECONOMY,10.3
+IND_TAX_REVENUE_GDP_PCT,Tax revenue (% of GDP),2008,12,PAK,KAGGLE_PAK_ECONOMY,10.5
+IND_TAX_REVENUE_GDP_PCT,Tax revenue (% of GDP),2009,12,PAK,KAGGLE_PAK_ECONOMY,9.1
+IND_TAX_REVENUE_GDP_PCT,Tax revenue (% of GDP),2010,12,PAK,KAGGLE_PAK_ECONOMY,9.9
+IND_TAX_REVENUE_GDP_PCT,Tax revenue (% of GDP),2011,12,PAK,KAGGLE_PAK_ECONOMY,10.1
+IND_TAX_REVENUE_GDP_PCT,Tax revenue (% of GDP),2012,12,PAK,KAGGLE_PAK_ECONOMY,10.5
+IND_TAX_REVENUE_GDP_PCT,Tax revenue (% of GDP),2013,12,PAK,KAGGLE_PAK_ECONOMY,10.2
+IND_TAX_REVENUE_GDP_PCT,Tax revenue (% of GDP),2014,12,PAK,KAGGLE_PAK_ECONOMY,11.0
+IND_TAX_REVENUE_GDP_PCT,Tax revenue (% of GDP),2015,12,PAK,KAGGLE_PAK_ECONOMY,12.4
+IND_TAX_REVENUE_GDP_PCT,Tax revenue (% of GDP),2016,12,PAK,KAGGLE_PAK_ECONOMY,12.6
+IND_TAX_REVENUE_GDP_PCT,Tax revenue (% of GDP),2017,12,PAK,KAGGLE_PAK_ECONOMY,13.0
+IND_TAX_REVENUE_GDP_PCT,Tax revenue (% of GDP),2018,12,PAK,KAGGLE_PAK_ECONOMY,13.6
+IND_TAX_REVENUE_GDP_PCT,Tax revenue (% of GDP),2019,12,PAK,KAGGLE_PAK_ECONOMY,12.2
+IND_TAX_REVENUE_GDP_PCT,Tax revenue (% of GDP),2020,12,PAK,KAGGLE_PAK_ECONOMY,11.4
+IND_TAX_REVENUE_GDP_PCT,Tax revenue (% of GDP),2021,12,PAK,KAGGLE_PAK_ECONOMY,11.9
+IND_TAX_REVENUE_GDP_PCT,Tax revenue (% of GDP),2022,12,PAK,KAGGLE_PAK_ECONOMY,12.1
+IND_TAX_REVENUE_GDP_PCT,Tax revenue (% of GDP),2023,12,PAK,KAGGLE_PAK_ECONOMY,12.7
+IND_TAX_REVENUE_GDP_PCT,Tax revenue (% of GDP),2024,12,PAK,KAGGLE_PAK_ECONOMY,13.3
+IND_TAX_REVENUE_GDP_PCT,Tax revenue (% of GDP),2025,12,PAK,KAGGLE_PAK_ECONOMY,14.5
+IND_UNEMPLOYMENT_PCT,"Unemployment, total (% of total labor force)",2000,12,PAK,KAGGLE_PAK_ECONOMY,7.8
+IND_UNEMPLOYMENT_PCT,"Unemployment, total (% of total labor force)",2001,12,PAK,KAGGLE_PAK_ECONOMY,7.8
+IND_UNEMPLOYMENT_PCT,"Unemployment, total (% of total labor force)",2002,12,PAK,KAGGLE_PAK_ECONOMY,8.3
+IND_UNEMPLOYMENT_PCT,"Unemployment, total (% of total labor force)",2003,12,PAK,KAGGLE_PAK_ECONOMY,8.3
+IND_UNEMPLOYMENT_PCT,"Unemployment, total (% of total labor force)",2004,12,PAK,KAGGLE_PAK_ECONOMY,7.7
+IND_UNEMPLOYMENT_PCT,"Unemployment, total (% of total labor force)",2005,12,PAK,KAGGLE_PAK_ECONOMY,7.7
+IND_UNEMPLOYMENT_PCT,"Unemployment, total (% of total labor force)",2006,12,PAK,KAGGLE_PAK_ECONOMY,6.2
+IND_UNEMPLOYMENT_PCT,"Unemployment, total (% of total labor force)",2007,12,PAK,KAGGLE_PAK_ECONOMY,5.2
+IND_UNEMPLOYMENT_PCT,"Unemployment, total (% of total labor force)",2008,12,PAK,KAGGLE_PAK_ECONOMY,5.2
+IND_UNEMPLOYMENT_PCT,"Unemployment, total (% of total labor force)",2009,12,PAK,KAGGLE_PAK_ECONOMY,5.5
+IND_UNEMPLOYMENT_PCT,"Unemployment, total (% of total labor force)",2010,12,PAK,KAGGLE_PAK_ECONOMY,5.6
+IND_UNEMPLOYMENT_PCT,"Unemployment, total (% of total labor force)",2011,12,PAK,KAGGLE_PAK_ECONOMY,6.0
+IND_UNEMPLOYMENT_PCT,"Unemployment, total (% of total labor force)",2012,12,PAK,KAGGLE_PAK_ECONOMY,6.0
+IND_UNEMPLOYMENT_PCT,"Unemployment, total (% of total labor force)",2013,12,PAK,KAGGLE_PAK_ECONOMY,6.2
+IND_UNEMPLOYMENT_PCT,"Unemployment, total (% of total labor force)",2014,12,PAK,KAGGLE_PAK_ECONOMY,6.0
+IND_UNEMPLOYMENT_PCT,"Unemployment, total (% of total labor force)",2015,12,PAK,KAGGLE_PAK_ECONOMY,5.9
+IND_UNEMPLOYMENT_PCT,"Unemployment, total (% of total labor force)",2016,12,PAK,KAGGLE_PAK_ECONOMY,5.9
+IND_UNEMPLOYMENT_PCT,"Unemployment, total (% of total labor force)",2017,12,PAK,KAGGLE_PAK_ECONOMY,5.8
+IND_UNEMPLOYMENT_PCT,"Unemployment, total (% of total labor force)",2018,12,PAK,KAGGLE_PAK_ECONOMY,5.8
+IND_UNEMPLOYMENT_PCT,"Unemployment, total (% of total labor force)",2019,12,PAK,KAGGLE_PAK_ECONOMY,4.5
+IND_UNEMPLOYMENT_PCT,"Unemployment, total (% of total labor force)",2020,12,PAK,KAGGLE_PAK_ECONOMY,4.6
+IND_UNEMPLOYMENT_PCT,"Unemployment, total (% of total labor force)",2021,12,PAK,KAGGLE_PAK_ECONOMY,6.3
+IND_UNEMPLOYMENT_PCT,"Unemployment, total (% of total labor force)",2022,12,PAK,KAGGLE_PAK_ECONOMY,6.2
+IND_UNEMPLOYMENT_PCT,"Unemployment, total (% of total labor force)",2023,12,PAK,KAGGLE_PAK_ECONOMY,6.5
+IND_UNEMPLOYMENT_PCT,"Unemployment, total (% of total labor force)",2024,12,PAK,KAGGLE_PAK_ECONOMY,6.4
+IND_UNEMPLOYMENT_PCT,"Unemployment, total (% of total labor force)",2025,12,PAK,KAGGLE_PAK_ECONOMY,5.4

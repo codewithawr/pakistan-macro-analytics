@@ -1,0 +1,241 @@
+DIM_INDICATOR_id,DIM_INDICATOR_name,DIM_TIME_year,DIM_LOCATION_id,DIM_SOURCE_id,FACT_value
+IND_AGRI_PCT_GDP,"Agriculture, value added (% GDP)",2000,PAK,WorldBank_WDI,25.3871360412975
+IND_AGRI_PCT_GDP,"Agriculture, value added (% GDP)",2001,PAK,WorldBank_WDI,24.1449605032819
+IND_AGRI_PCT_GDP,"Agriculture, value added (% GDP)",2002,PAK,WorldBank_WDI,22.7026275435674
+IND_AGRI_PCT_GDP,"Agriculture, value added (% GDP)",2003,PAK,WorldBank_WDI,22.1519373367714
+IND_AGRI_PCT_GDP,"Agriculture, value added (% GDP)",2004,PAK,WorldBank_WDI,22.0018900085347
+IND_AGRI_PCT_GDP,"Agriculture, value added (% GDP)",2005,PAK,WorldBank_WDI,21.5745096992331
+IND_AGRI_PCT_GDP,"Agriculture, value added (% GDP)",2006,PAK,WorldBank_WDI,20.4183460540925
+IND_AGRI_PCT_GDP,"Agriculture, value added (% GDP)",2007,PAK,WorldBank_WDI,19.9379514329097
+IND_AGRI_PCT_GDP,"Agriculture, value added (% GDP)",2008,PAK,WorldBank_WDI,20.351365282755
+IND_AGRI_PCT_GDP,"Agriculture, value added (% GDP)",2009,PAK,WorldBank_WDI,21.7869229749534
+IND_AGRI_PCT_GDP,"Agriculture, value added (% GDP)",2010,PAK,WorldBank_WDI,22.6888101741789
+IND_AGRI_PCT_GDP,"Agriculture, value added (% GDP)",2011,PAK,WorldBank_WDI,23.819642978628
+IND_AGRI_PCT_GDP,"Agriculture, value added (% GDP)",2012,PAK,WorldBank_WDI,23.3861955340345
+IND_AGRI_PCT_GDP,"Agriculture, value added (% GDP)",2013,PAK,WorldBank_WDI,23.7075945934908
+IND_AGRI_PCT_GDP,"Agriculture, value added (% GDP)",2014,PAK,WorldBank_WDI,23.4927320097855
+IND_AGRI_PCT_GDP,"Agriculture, value added (% GDP)",2015,PAK,WorldBank_WDI,23.2628407756242
+IND_AGRI_PCT_GDP,"Agriculture, value added (% GDP)",2016,PAK,WorldBank_WDI,22.3283302035697
+IND_AGRI_PCT_GDP,"Agriculture, value added (% GDP)",2017,PAK,WorldBank_WDI,21.9632035366872
+IND_AGRI_PCT_GDP,"Agriculture, value added (% GDP)",2018,PAK,WorldBank_WDI,21.6512353593957
+IND_AGRI_PCT_GDP,"Agriculture, value added (% GDP)",2019,PAK,WorldBank_WDI,20.6778713222887
+IND_AGRI_PCT_GDP,"Agriculture, value added (% GDP)",2020,PAK,WorldBank_WDI,21.8541325548966
+IND_AGRI_PCT_GDP,"Agriculture, value added (% GDP)",2021,PAK,WorldBank_WDI,22.6625080760743
+IND_AGRI_PCT_GDP,"Agriculture, value added (% GDP)",2022,PAK,WorldBank_WDI,22.3268646996031
+IND_AGRI_PCT_GDP,"Agriculture, value added (% GDP)",2023,PAK,WorldBank_WDI,23.426703596366
+IND_EXCHANGE_RATE,Official exchange rate (LCU per US$),2000,PAK,WorldBank_WDI,53.6481865
+IND_EXCHANGE_RATE,Official exchange rate (LCU per US$),2001,PAK,WorldBank_WDI,61.9271616666666
+IND_EXCHANGE_RATE,Official exchange rate (LCU per US$),2002,PAK,WorldBank_WDI,59.7237816666667
+IND_EXCHANGE_RATE,Official exchange rate (LCU per US$),2003,PAK,WorldBank_WDI,57.7519966666667
+IND_EXCHANGE_RATE,Official exchange rate (LCU per US$),2004,PAK,WorldBank_WDI,58.2578633333333
+IND_EXCHANGE_RATE,Official exchange rate (LCU per US$),2005,PAK,WorldBank_WDI,59.514475
+IND_EXCHANGE_RATE,Official exchange rate (LCU per US$),2006,PAK,WorldBank_WDI,60.271335
+IND_EXCHANGE_RATE,Official exchange rate (LCU per US$),2007,PAK,WorldBank_WDI,60.7385158333334
+IND_EXCHANGE_RATE,Official exchange rate (LCU per US$),2008,PAK,WorldBank_WDI,70.4080333333333
+IND_EXCHANGE_RATE,Official exchange rate (LCU per US$),2009,PAK,WorldBank_WDI,81.7128916666666
+IND_EXCHANGE_RATE,Official exchange rate (LCU per US$),2010,PAK,WorldBank_WDI,85.1938163257576
+IND_EXCHANGE_RATE,Official exchange rate (LCU per US$),2011,PAK,WorldBank_WDI,86.3433833333333
+IND_EXCHANGE_RATE,Official exchange rate (LCU per US$),2012,PAK,WorldBank_WDI,93.3951972222222
+IND_EXCHANGE_RATE,Official exchange rate (LCU per US$),2013,PAK,WorldBank_WDI,101.628899206349
+IND_EXCHANGE_RATE,Official exchange rate (LCU per US$),2014,PAK,WorldBank_WDI,101.100088423521
+IND_EXCHANGE_RATE,Official exchange rate (LCU per US$),2015,PAK,WorldBank_WDI,102.769271604675
+IND_EXCHANGE_RATE,Official exchange rate (LCU per US$),2016,PAK,WorldBank_WDI,104.769117033301
+IND_EXCHANGE_RATE,Official exchange rate (LCU per US$),2017,PAK,WorldBank_WDI,105.455162087938
+IND_EXCHANGE_RATE,Official exchange rate (LCU per US$),2018,PAK,WorldBank_WDI,121.824068875756
+IND_EXCHANGE_RATE,Official exchange rate (LCU per US$),2019,PAK,WorldBank_WDI,150.036253839864
+IND_EXCHANGE_RATE,Official exchange rate (LCU per US$),2020,PAK,WorldBank_WDI,161.838479684718
+IND_EXCHANGE_RATE,Official exchange rate (LCU per US$),2021,PAK,WorldBank_WDI,162.906253747418
+IND_EXCHANGE_RATE,Official exchange rate (LCU per US$),2022,PAK,WorldBank_WDI,204.867187469982
+IND_EXCHANGE_RATE,Official exchange rate (LCU per US$),2023,PAK,WorldBank_WDI,280.356111655149
+IND_FDI_PCT_GDP,"FDI, net inflows (% of GDP)",2000,PAK,WorldBank_WDI,0.309595026317044
+IND_FDI_PCT_GDP,"FDI, net inflows (% of GDP)",2001,PAK,WorldBank_WDI,0.38910658649849
+IND_FDI_PCT_GDP,"FDI, net inflows (% of GDP)",2002,PAK,WorldBank_WDI,0.843517300073237
+IND_FDI_PCT_GDP,"FDI, net inflows (% of GDP)",2003,PAK,WorldBank_WDI,0.475207711805665
+IND_FDI_PCT_GDP,"FDI, net inflows (% of GDP)",2004,PAK,WorldBank_WDI,0.845585701616171
+IND_FDI_PCT_GDP,"FDI, net inflows (% of GDP)",2005,PAK,WorldBank_WDI,1.51575083116461
+IND_FDI_PCT_GDP,"FDI, net inflows (% of GDP)",2006,PAK,WorldBank_WDI,2.63975006245443
+IND_FDI_PCT_GDP,"FDI, net inflows (% of GDP)",2007,PAK,WorldBank_WDI,3.03571933817685
+IND_FDI_PCT_GDP,"FDI, net inflows (% of GDP)",2008,PAK,WorldBank_WDI,2.68936656124595
+IND_FDI_PCT_GDP,"FDI, net inflows (% of GDP)",2009,PAK,WorldBank_WDI,1.24801305527951
+IND_FDI_PCT_GDP,"FDI, net inflows (% of GDP)",2010,PAK,WorldBank_WDI,1.02791108080423
+IND_FDI_PCT_GDP,"FDI, net inflows (% of GDP)",2011,PAK,WorldBank_WDI,0.575055145839944
+IND_FDI_PCT_GDP,"FDI, net inflows (% of GDP)",2012,PAK,WorldBank_WDI,0.343453048660945
+IND_FDI_PCT_GDP,"FDI, net inflows (% of GDP)",2013,PAK,WorldBank_WDI,0.515353849332245
+IND_FDI_PCT_GDP,"FDI, net inflows (% of GDP)",2014,PAK,WorldBank_WDI,0.695308116834202
+IND_FDI_PCT_GDP,"FDI, net inflows (% of GDP)",2015,PAK,WorldBank_WDI,0.557734356032139
+IND_FDI_PCT_GDP,"FDI, net inflows (% of GDP)",2016,PAK,WorldBank_WDI,0.821349998064174
+IND_FDI_PCT_GDP,"FDI, net inflows (% of GDP)",2017,PAK,WorldBank_WDI,0.735837049658425
+IND_FDI_PCT_GDP,"FDI, net inflows (% of GDP)",2018,PAK,WorldBank_WDI,0.487745750658143
+IND_FDI_PCT_GDP,"FDI, net inflows (% of GDP)",2019,PAK,WorldBank_WDI,0.696146480411465
+IND_FDI_PCT_GDP,"FDI, net inflows (% of GDP)",2020,PAK,WorldBank_WDI,0.684695289874347
+IND_FDI_PCT_GDP,"FDI, net inflows (% of GDP)",2021,PAK,WorldBank_WDI,0.616039439073827
+IND_FDI_PCT_GDP,"FDI, net inflows (% of GDP)",2022,PAK,WorldBank_WDI,0.389980753542853
+IND_FDI_PCT_GDP,"FDI, net inflows (% of GDP)",2023,PAK,WorldBank_WDI,0.608281270820624
+IND_FDI_USD,"FDI, net inflows (current US$)",2000,PAK,WorldBank_WDI,308000000.0
+IND_FDI_USD,"FDI, net inflows (current US$)",2001,PAK,WorldBank_WDI,378000000.0
+IND_FDI_USD,"FDI, net inflows (current US$)",2002,PAK,WorldBank_WDI,826000000.0
+IND_FDI_USD,"FDI, net inflows (current US$)",2003,PAK,WorldBank_WDI,534000000.0
+IND_FDI_USD,"FDI, net inflows (current US$)",2004,PAK,WorldBank_WDI,1118000000.0
+IND_FDI_USD,"FDI, net inflows (current US$)",2005,PAK,WorldBank_WDI,2201000000.0
+IND_FDI_USD,"FDI, net inflows (current US$)",2006,PAK,WorldBank_WDI,4273000000.0
+IND_FDI_USD,"FDI, net inflows (current US$)",2007,PAK,WorldBank_WDI,5590000000.0
+IND_FDI_USD,"FDI, net inflows (current US$)",2008,PAK,WorldBank_WDI,5438000000.0
+IND_FDI_USD,"FDI, net inflows (current US$)",2009,PAK,WorldBank_WDI,2338000000.0
+IND_FDI_USD,"FDI, net inflows (current US$)",2010,PAK,WorldBank_WDI,2022000000.0
+IND_FDI_USD,"FDI, net inflows (current US$)",2011,PAK,WorldBank_WDI,1326000000.0
+IND_FDI_USD,"FDI, net inflows (current US$)",2012,PAK,WorldBank_WDI,859000000.0
+IND_FDI_USD,"FDI, net inflows (current US$)",2013,PAK,WorldBank_WDI,1333000000.0
+IND_FDI_USD,"FDI, net inflows (current US$)",2014,PAK,WorldBank_WDI,1887000000.0
+IND_FDI_USD,"FDI, net inflows (current US$)",2015,PAK,WorldBank_WDI,1673000000.0
+IND_FDI_USD,"FDI, net inflows (current US$)",2016,PAK,WorldBank_WDI,2576000000.0
+IND_FDI_USD,"FDI, net inflows (current US$)",2017,PAK,WorldBank_WDI,2496000000.0
+IND_FDI_USD,"FDI, net inflows (current US$)",2018,PAK,WorldBank_WDI,1737000000.0
+IND_FDI_USD,"FDI, net inflows (current US$)",2019,PAK,WorldBank_WDI,2234000000.0
+IND_FDI_USD,"FDI, net inflows (current US$)",2020,PAK,WorldBank_WDI,2057000000.0
+IND_FDI_USD,"FDI, net inflows (current US$)",2021,PAK,WorldBank_WDI,2147000000.0
+IND_FDI_USD,"FDI, net inflows (current US$)",2022,PAK,WorldBank_WDI,1462000000.0
+IND_FDI_USD,"FDI, net inflows (current US$)",2023,PAK,WorldBank_WDI,2048000000.0
+IND_GDP_USD,GDP (current US$),2000,PAK,WorldBank_WDI,99484802344.5277
+IND_GDP_USD,GDP (current US$),2001,PAK,WorldBank_WDI,97145618479.9038
+IND_GDP_USD,GDP (current US$),2002,PAK,WorldBank_WDI,97923302809.3537
+IND_GDP_USD,GDP (current US$),2003,PAK,WorldBank_WDI,112371913740.823
+IND_GDP_USD,GDP (current US$),2004,PAK,WorldBank_WDI,132216048339.413
+IND_GDP_USD,GDP (current US$),2005,PAK,WorldBank_WDI,145208562960.767
+IND_GDP_USD,GDP (current US$),2006,PAK,WorldBank_WDI,161871385506.36
+IND_GDP_USD,GDP (current US$),2007,PAK,WorldBank_WDI,184140869997.46
+IND_GDP_USD,GDP (current US$),2008,PAK,WorldBank_WDI,202203748583.854
+IND_GDP_USD,GDP (current US$),2009,PAK,WorldBank_WDI,187337783856.466
+IND_GDP_USD,GDP (current US$),2010,PAK,WorldBank_WDI,196709621849.586
+IND_GDP_USD,GDP (current US$),2011,PAK,WorldBank_WDI,230586581059.665
+IND_GDP_USD,GDP (current US$),2012,PAK,WorldBank_WDI,250106966104.704
+IND_GDP_USD,GDP (current US$),2013,PAK,WorldBank_WDI,258657231672.412
+IND_GDP_USD,GDP (current US$),2014,PAK,WorldBank_WDI,271390474857.632
+IND_GDP_USD,GDP (current US$),2015,PAK,WorldBank_WDI,299963590534.773
+IND_GDP_USD,GDP (current US$),2016,PAK,WorldBank_WDI,313630000130.435
+IND_GDP_USD,GDP (current US$),2017,PAK,WorldBank_WDI,339205534861.1
+IND_GDP_USD,GDP (current US$),2018,PAK,WorldBank_WDI,356128166704.921
+IND_GDP_USD,GDP (current US$),2019,PAK,WorldBank_WDI,320909472770.669
+IND_GDP_USD,GDP (current US$),2020,PAK,WorldBank_WDI,300425609817.981
+IND_GDP_USD,GDP (current US$),2021,PAK,WorldBank_WDI,348516647445.148
+IND_GDP_USD,GDP (current US$),2022,PAK,WorldBank_WDI,374890295666.694
+IND_GDP_USD,GDP (current US$),2023,PAK,WorldBank_WDI,336686348609.266
+IND_IND_PCT_GDP,"Industry, value added (% GDP)",2000,PAK,WorldBank_WDI,17.1836347813683
+IND_IND_PCT_GDP,"Industry, value added (% GDP)",2001,PAK,WorldBank_WDI,17.5934942779914
+IND_IND_PCT_GDP,"Industry, value added (% GDP)",2002,PAK,WorldBank_WDI,17.1588876671988
+IND_IND_PCT_GDP,"Industry, value added (% GDP)",2003,PAK,WorldBank_WDI,17.3885833649452
+IND_IND_PCT_GDP,"Industry, value added (% GDP)",2004,PAK,WorldBank_WDI,18.9071452885794
+IND_IND_PCT_GDP,"Industry, value added (% GDP)",2005,PAK,WorldBank_WDI,19.9330293059047
+IND_IND_PCT_GDP,"Industry, value added (% GDP)",2006,PAK,WorldBank_WDI,20.199119664936
+IND_IND_PCT_GDP,"Industry, value added (% GDP)",2007,PAK,WorldBank_WDI,19.9449553163591
+IND_IND_PCT_GDP,"Industry, value added (% GDP)",2008,PAK,WorldBank_WDI,21.1955484525846
+IND_IND_PCT_GDP,"Industry, value added (% GDP)",2009,PAK,WorldBank_WDI,20.3372467582902
+IND_IND_PCT_GDP,"Industry, value added (% GDP)",2010,PAK,WorldBank_WDI,20.9650197800876
+IND_IND_PCT_GDP,"Industry, value added (% GDP)",2011,PAK,WorldBank_WDI,21.1864809532945
+IND_IND_PCT_GDP,"Industry, value added (% GDP)",2012,PAK,WorldBank_WDI,21.9583720724829
+IND_IND_PCT_GDP,"Industry, value added (% GDP)",2013,PAK,WorldBank_WDI,20.8910295084645
+IND_IND_PCT_GDP,"Industry, value added (% GDP)",2014,PAK,WorldBank_WDI,20.8659912298838
+IND_IND_PCT_GDP,"Industry, value added (% GDP)",2015,PAK,WorldBank_WDI,19.602614668814
+IND_IND_PCT_GDP,"Industry, value added (% GDP)",2016,PAK,WorldBank_WDI,18.1501179723214
+IND_IND_PCT_GDP,"Industry, value added (% GDP)",2017,PAK,WorldBank_WDI,18.0993270885214
+IND_IND_PCT_GDP,"Industry, value added (% GDP)",2018,PAK,WorldBank_WDI,18.5890515927482
+IND_IND_PCT_GDP,"Industry, value added (% GDP)",2019,PAK,WorldBank_WDI,19.5638945814483
+IND_IND_PCT_GDP,"Industry, value added (% GDP)",2020,PAK,WorldBank_WDI,18.5894635445816
+IND_IND_PCT_GDP,"Industry, value added (% GDP)",2021,PAK,WorldBank_WDI,18.8964082009484
+IND_IND_PCT_GDP,"Industry, value added (% GDP)",2022,PAK,WorldBank_WDI,20.4125955543613
+IND_IND_PCT_GDP,"Industry, value added (% GDP)",2023,PAK,WorldBank_WDI,20.718694602313
+IND_INFLATION_CPI,"Inflation, consumer prices (%)",2000,PAK,WorldBank_WDI,4.36666451291681
+IND_INFLATION_CPI,"Inflation, consumer prices (%)",2001,PAK,WorldBank_WDI,3.14826144590618
+IND_INFLATION_CPI,"Inflation, consumer prices (%)",2002,PAK,WorldBank_WDI,3.29034472613153
+IND_INFLATION_CPI,"Inflation, consumer prices (%)",2003,PAK,WorldBank_WDI,2.91413470059479
+IND_INFLATION_CPI,"Inflation, consumer prices (%)",2004,PAK,WorldBank_WDI,7.44462469342739
+IND_INFLATION_CPI,"Inflation, consumer prices (%)",2005,PAK,WorldBank_WDI,9.06332737030417
+IND_INFLATION_CPI,"Inflation, consumer prices (%)",2006,PAK,WorldBank_WDI,7.92108440058789
+IND_INFLATION_CPI,"Inflation, consumer prices (%)",2007,PAK,WorldBank_WDI,7.59868441050774
+IND_INFLATION_CPI,"Inflation, consumer prices (%)",2008,PAK,WorldBank_WDI,20.2861210929554
+IND_INFLATION_CPI,"Inflation, consumer prices (%)",2009,PAK,WorldBank_WDI,13.6477650639761
+IND_INFLATION_CPI,"Inflation, consumer prices (%)",2010,PAK,WorldBank_WDI,12.9388705634889
+IND_INFLATION_CPI,"Inflation, consumer prices (%)",2011,PAK,WorldBank_WDI,11.9160927116277
+IND_INFLATION_CPI,"Inflation, consumer prices (%)",2012,PAK,WorldBank_WDI,9.68235186055684
+IND_INFLATION_CPI,"Inflation, consumer prices (%)",2013,PAK,WorldBank_WDI,7.69215611899565
+IND_INFLATION_CPI,"Inflation, consumer prices (%)",2014,PAK,WorldBank_WDI,7.18938402847028
+IND_INFLATION_CPI,"Inflation, consumer prices (%)",2015,PAK,WorldBank_WDI,2.52932817254229
+IND_INFLATION_CPI,"Inflation, consumer prices (%)",2016,PAK,WorldBank_WDI,3.7651191635658
+IND_INFLATION_CPI,"Inflation, consumer prices (%)",2017,PAK,WorldBank_WDI,4.08537368032608
+IND_INFLATION_CPI,"Inflation, consumer prices (%)",2018,PAK,WorldBank_WDI,5.07805725868917
+IND_INFLATION_CPI,"Inflation, consumer prices (%)",2019,PAK,WorldBank_WDI,10.5780305672025
+IND_INFLATION_CPI,"Inflation, consumer prices (%)",2020,PAK,WorldBank_WDI,9.74011619320125
+IND_INFLATION_CPI,"Inflation, consumer prices (%)",2021,PAK,WorldBank_WDI,9.49641577285205
+IND_INFLATION_CPI,"Inflation, consumer prices (%)",2022,PAK,WorldBank_WDI,19.8738599646655
+IND_INFLATION_CPI,"Inflation, consumer prices (%)",2023,PAK,WorldBank_WDI,30.7681280657005
+IND_LABOR_TOTAL,"Labor force, total",2000,PAK,WorldBank_WDI,44283074.0
+IND_LABOR_TOTAL,"Labor force, total",2001,PAK,WorldBank_WDI,45850789.0
+IND_LABOR_TOTAL,"Labor force, total",2002,PAK,WorldBank_WDI,47266464.0
+IND_LABOR_TOTAL,"Labor force, total",2003,PAK,WorldBank_WDI,48816449.0
+IND_LABOR_TOTAL,"Labor force, total",2004,PAK,WorldBank_WDI,50561804.0
+IND_LABOR_TOTAL,"Labor force, total",2005,PAK,WorldBank_WDI,51855384.0
+IND_LABOR_TOTAL,"Labor force, total",2006,PAK,WorldBank_WDI,53143744.0
+IND_LABOR_TOTAL,"Labor force, total",2007,PAK,WorldBank_WDI,55026645.0
+IND_LABOR_TOTAL,"Labor force, total",2008,PAK,WorldBank_WDI,56978123.0
+IND_LABOR_TOTAL,"Labor force, total",2009,PAK,WorldBank_WDI,59305908.0
+IND_LABOR_TOTAL,"Labor force, total",2010,PAK,WorldBank_WDI,61633684.0
+IND_LABOR_TOTAL,"Labor force, total",2011,PAK,WorldBank_WDI,62965404.0
+IND_LABOR_TOTAL,"Labor force, total",2012,PAK,WorldBank_WDI,64736311.0
+IND_LABOR_TOTAL,"Labor force, total",2013,PAK,WorldBank_WDI,66307781.0
+IND_LABOR_TOTAL,"Labor force, total",2014,PAK,WorldBank_WDI,66802824.0
+IND_LABOR_TOTAL,"Labor force, total",2015,PAK,WorldBank_WDI,69229075.0
+IND_LABOR_TOTAL,"Labor force, total",2016,PAK,WorldBank_WDI,69799389.0
+IND_LABOR_TOTAL,"Labor force, total",2017,PAK,WorldBank_WDI,70494278.0
+IND_LABOR_TOTAL,"Labor force, total",2018,PAK,WorldBank_WDI,71401725.0
+IND_LABOR_TOTAL,"Labor force, total",2019,PAK,WorldBank_WDI,73727954.0
+IND_LABOR_TOTAL,"Labor force, total",2020,PAK,WorldBank_WDI,75332749.0
+IND_LABOR_TOTAL,"Labor force, total",2021,PAK,WorldBank_WDI,78814704.0
+IND_LABOR_TOTAL,"Labor force, total",2022,PAK,WorldBank_WDI,80064041.0
+IND_LABOR_TOTAL,"Labor force, total",2023,PAK,WorldBank_WDI,81613188.0
+IND_POP_TOTAL,"Population, total",2000,PAK,WorldBank_WDI,154879127.0
+IND_POP_TOTAL,"Population, total",2001,PAK,WorldBank_WDI,159270907.0
+IND_POP_TOTAL,"Population, total",2002,PAK,WorldBank_WDI,163222549.0
+IND_POP_TOTAL,"Population, total",2003,PAK,WorldBank_WDI,167110248.0
+IND_POP_TOTAL,"Population, total",2004,PAK,WorldBank_WDI,171286000.0
+IND_POP_TOTAL,"Population, total",2005,PAK,WorldBank_WDI,175453212.0
+IND_POP_TOTAL,"Population, total",2006,PAK,WorldBank_WDI,179682690.0
+IND_POP_TOTAL,"Population, total",2007,PAK,WorldBank_WDI,184493231.0
+IND_POP_TOTAL,"Population, total",2008,PAK,WorldBank_WDI,189499113.0
+IND_POP_TOTAL,"Population, total",2009,PAK,WorldBank_WDI,194376534.0
+IND_POP_TOTAL,"Population, total",2010,PAK,WorldBank_WDI,199239047.0
+IND_POP_TOTAL,"Population, total",2011,PAK,WorldBank_WDI,203746065.0
+IND_POP_TOTAL,"Population, total",2012,PAK,WorldBank_WDI,207667125.0
+IND_POP_TOTAL,"Population, total",2013,PAK,WorldBank_WDI,211073978.0
+IND_POP_TOTAL,"Population, total",2014,PAK,WorldBank_WDI,214264647.0
+IND_POP_TOTAL,"Population, total",2015,PAK,WorldBank_WDI,217290883.0
+IND_POP_TOTAL,"Population, total",2016,PAK,WorldBank_WDI,220138869.0
+IND_POP_TOTAL,"Population, total",2017,PAK,WorldBank_WDI,223273967.0
+IND_POP_TOTAL,"Population, total",2018,PAK,WorldBank_WDI,226928892.0
+IND_POP_TOTAL,"Population, total",2019,PAK,WorldBank_WDI,230800899.0
+IND_POP_TOTAL,"Population, total",2020,PAK,WorldBank_WDI,235001746.0
+IND_POP_TOTAL,"Population, total",2021,PAK,WorldBank_WDI,239477801.0
+IND_POP_TOTAL,"Population, total",2022,PAK,WorldBank_WDI,243700667.0
+IND_POP_TOTAL,"Population, total",2023,PAK,WorldBank_WDI,247504495.0
+IND_REMITTANCES_USD,Personal remittances (US$),2000,PAK,WorldBank_WDI,1075000000.0
+IND_REMITTANCES_USD,Personal remittances (US$),2001,PAK,WorldBank_WDI,1461000000.0
+IND_REMITTANCES_USD,Personal remittances (US$),2002,PAK,WorldBank_WDI,3554000000.0
+IND_REMITTANCES_USD,Personal remittances (US$),2003,PAK,WorldBank_WDI,3964000000.0
+IND_REMITTANCES_USD,Personal remittances (US$),2004,PAK,WorldBank_WDI,3945000000.0
+IND_REMITTANCES_USD,Personal remittances (US$),2005,PAK,WorldBank_WDI,4280000000.0
+IND_REMITTANCES_USD,Personal remittances (US$),2006,PAK,WorldBank_WDI,5121000000.0
+IND_REMITTANCES_USD,Personal remittances (US$),2007,PAK,WorldBank_WDI,5998000000.0
+IND_REMITTANCES_USD,Personal remittances (US$),2008,PAK,WorldBank_WDI,7039000000.0
+IND_REMITTANCES_USD,Personal remittances (US$),2009,PAK,WorldBank_WDI,8717000000.0
+IND_REMITTANCES_USD,Personal remittances (US$),2010,PAK,WorldBank_WDI,9690000000.0
+IND_REMITTANCES_USD,Personal remittances (US$),2011,PAK,WorldBank_WDI,12263000000.0
+IND_REMITTANCES_USD,Personal remittances (US$),2012,PAK,WorldBank_WDI,14007000000.0
+IND_REMITTANCES_USD,Personal remittances (US$),2013,PAK,WorldBank_WDI,14629000000.0
+IND_REMITTANCES_USD,Personal remittances (US$),2014,PAK,WorldBank_WDI,17244000000.0
+IND_REMITTANCES_USD,Personal remittances (US$),2015,PAK,WorldBank_WDI,19306000000.0
+IND_REMITTANCES_USD,Personal remittances (US$),2016,PAK,WorldBank_WDI,19819000000.0
+IND_REMITTANCES_USD,Personal remittances (US$),2017,PAK,WorldBank_WDI,19856000000.0
+IND_REMITTANCES_USD,Personal remittances (US$),2018,PAK,WorldBank_WDI,21193000000.0
+IND_REMITTANCES_USD,Personal remittances (US$),2019,PAK,WorldBank_WDI,22252000000.0
+IND_REMITTANCES_USD,Personal remittances (US$),2020,PAK,WorldBank_WDI,26089000000.0
+IND_REMITTANCES_USD,Personal remittances (US$),2021,PAK,WorldBank_WDI,31312000000.0
+IND_REMITTANCES_USD,Personal remittances (US$),2022,PAK,WorldBank_WDI,30176000000.0
+IND_REMITTANCES_USD,Personal remittances (US$),2023,PAK,WorldBank_WDI,26558000000.0
